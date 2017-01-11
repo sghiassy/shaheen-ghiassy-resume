@@ -1,10 +1,11 @@
 {
-  "name": "my-resume",
+  "name": "shaheen-ghiassy-resume",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A GIT repository containing the Adobe Indesign Source files for Shaheen Ghiassy's Resume",
+  "main": "src/resume.indd",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "x": "open ./src/shaheen-ghiassy-resume.indd"
   },
   "repository": {
     "type": "git",
