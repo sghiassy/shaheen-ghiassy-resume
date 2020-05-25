@@ -5,7 +5,7 @@
   "main": "src/resume.indd",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "x": "open ./src/shaheen-ghiassy-resume.indd"
+    "x": "open ./shaheen-ghiassy-resume.afpub"
   },
   "repository": {
     "type": "git",
