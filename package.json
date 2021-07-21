@@ -2,10 +2,10 @@
   "name": "shaheen-ghiassy-resume",
   "version": "1.0.0",
   "description": "A GIT repository containing the Adobe Indesign Source files for Shaheen Ghiassy's Resume",
-  "main": "src/resume.indd",
+  "main": "src/main.afpub",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "x": "open ./src/shaheen-ghiassy-resume.indd"
+    "x": "open ./src/main.afpub"
   },
   "repository": {
     "type": "git",
